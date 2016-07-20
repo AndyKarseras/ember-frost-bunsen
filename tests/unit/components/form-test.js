@@ -336,7 +336,8 @@ describeComponent(
           'property-chooser': 'frost-bunsen-property-chooser',
           select: 'frost-bunsen-input-select',
           string: 'frost-bunsen-input-text',
-          textarea: 'frost-bunsen-input-textarea'
+          textarea: 'frost-bunsen-input-textarea',
+          'url-input': 'frost-bunsen-input-url-input'
         })
       })
     })
